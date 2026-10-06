@@ -4,7 +4,7 @@ from dotenv import load_dotenv
 from flask import redirect, url_for
 
 import os
-
+ 
 # Carrega as variáveis de ambiente do arquivo .env
 load_dotenv()
 
